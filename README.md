@@ -31,8 +31,7 @@
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=radare2&logoColor=white)
 ![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-FF0000?style=for-the-badge&logo=c&logoColor=white)
 ![Hardware Hacking](https://img.shields.io/badge/Hardware_Hacking-FF4500?style=for-the-badge&logo=microchip&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=radare2&logoColor=white)
-![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-FF0000?style=for-the-badge&logo=c&logoColor=white)
+
 
 * **Hardware Reverse Engineering & Hacking:** UART/JTAG Pinout Identification, SPI Flash Memory Dumping, Board-Level Signal Sniffing (Logic Analyzers), Firmware Extraction, Fault Injection & Hardware Trojan Analysis.
 * **Software Reverse Engineering & Exploitation:** Binary Disassembly (x86/x64/ARM Assembly), Malware Analysis, Vulnerability Research, Patching & Buffer Overflow Exploitation.
