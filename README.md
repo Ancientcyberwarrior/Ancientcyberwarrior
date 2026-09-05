@@ -28,6 +28,10 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Quantum](https://img.shields.io/badge/Quantum_Computing-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![AI/ML](https://img.shields.io/badge/AI_&_Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=radare2&logoColor=white)
+![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-FF0000?style=for-the-badge&logo=c&logoColor=white)
+
+* **Reverse Engineering & Exploitation:** Binary Disassembly, x86/x64 & ARM Assembly Analysis, Firmware Extraction, Malware Analysis, Patching & Buffer Overflow Exploitation.
 
 * **Cybersecurity & Infra:** Firmware Hacking, Reverse Engineering, Penetration Testing, Firewalls, Wireshark Packet Analysis.
 * **Networking & Servers:** CCNA Certified Routing & Switching, Network Architecture, Windows/Linux Enterprise Servers.
